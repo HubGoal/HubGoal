@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on V2-VERSE<br>🌱 I’m currently learning C++<br>💬 Ask me about 3D Design & Unity Engine
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about 3D Design & Unity Engine
 
 
 ## 🌐 Socials:
